@@ -24,6 +24,10 @@ a {
   color: inherit;
 }
 
+em {
+  text-decoration: underline;
+}
+
 iframe {
   width: 100% !important;
 }
